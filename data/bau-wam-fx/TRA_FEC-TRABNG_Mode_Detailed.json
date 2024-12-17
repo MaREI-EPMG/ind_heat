@@ -1,0 +1,14 @@
+{
+  "name": "bau-wam-fx",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-F-MTRUCK",
+      "seriesValues": [
+        [
+          2025,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

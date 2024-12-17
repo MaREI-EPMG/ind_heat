@@ -1,0 +1,22 @@
+{
+  "name": "mitigation_cb2024-450mt-wam",
+  "data": [
+    {
+      "seriesName": "TOTCO2",
+      "seriesValues": [
+        [
+          2048,
+          0.0
+        ],
+        [
+          2049,
+          0.0
+        ],
+        [
+          2050,
+          0.0
+        ]
+      ]
+    }
+  ]
+}
